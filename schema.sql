@@ -1,6 +1,3 @@
-create database ecom;
-use ecom;
-
 -- users
 create table users(
   id int primary key auto_increment,
